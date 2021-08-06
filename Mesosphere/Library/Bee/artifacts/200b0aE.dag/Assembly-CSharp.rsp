@@ -319,11 +319,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VSSettingsProvider.ref.dll"
-"Assets/Pixelation/Example/Scripts/ImageEffectBase.cs"
-"Assets/Pixelation/Example/Scripts/Plane.cs"
-"Assets/Pixelation/Example/Scripts/PointLight.cs"
-"Assets/Pixelation/Scripts/Chunky.cs"
-"Assets/Pixelation/Scripts/Pixelation.cs"
+"Assets/Tools/Pixelation/Example/Scripts/ImageEffectBase.cs"
+"Assets/Tools/Pixelation/Example/Scripts/Plane.cs"
+"Assets/Tools/Pixelation/Example/Scripts/PointLight.cs"
+"Assets/Tools/Pixelation/Scripts/Chunky.cs"
+"Assets/Tools/Pixelation/Scripts/Pixelation.cs"
 -langversion:8.0
 
 /deterministic

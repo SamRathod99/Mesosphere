@@ -59,25 +59,25 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Pixelation/Example/Scripts/PointLight.cs" />
-    <Compile Include="Assets/Pixelation/Example/Scripts/Plane.cs" />
-    <Compile Include="Assets/Pixelation/Scripts/Pixelation.cs" />
-    <Compile Include="Assets/Pixelation/Example/Scripts/ImageEffectBase.cs" />
-    <Compile Include="Assets/Pixelation/Scripts/Chunky.cs" />
+    <Compile Include="Assets/Tools/Pixelation/Example/Scripts/PointLight.cs" />
+    <Compile Include="Assets/Tools/Pixelation/Example/Scripts/Plane.cs" />
+    <Compile Include="Assets/Tools/Pixelation/Scripts/Pixelation.cs" />
+    <Compile Include="Assets/Tools/Pixelation/Example/Scripts/ImageEffectBase.cs" />
+    <Compile Include="Assets/Tools/Pixelation/Scripts/Chunky.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets/Pixelation/Shaders/Chunky.shader" />
-    <None Include="Assets/Simple Toon/Shaders/STOutline.shader" />
+    <None Include="Assets/Tools/Pixelation/Shaders/Chunky.shader" />
+    <None Include="Assets/Tools/Simple Toon/Shaders/STOutline.shader" />
     <None Include="Assets/Shaders/ShadowReceiver.shader" />
-    <None Include="Assets/Pixelation/Shaders/Pixelation.shader" />
-    <None Include="Assets/Simple Toon/Shaders/STTransparent.shader" />
-    <None Include="Assets/UrbanNightSky/Readme.txt" />
-    <None Include="Assets/Simple Toon/Shaders/STCore.cginc" />
+    <None Include="Assets/Tools/Pixelation/Shaders/Pixelation.shader" />
+    <None Include="Assets/Tools/Simple Toon/Shaders/STTransparent.shader" />
+    <None Include="Assets/Tools/UrbanNightSky/Readme.txt" />
+    <None Include="Assets/Tools/Simple Toon/Shaders/STCore.cginc" />
     <None Include="Assets/Shaders/OUtline.shader" />
     <None Include="Assets/Shaders/ToonComplete.shader" />
-    <None Include="Assets/Pixelation/Readme.txt" />
-    <None Include="Assets/Simple Toon/Shaders/STDefault.shader" />
-    <None Include="Assets/Simple Toon/Shaders/STFunctions.cginc" />
+    <None Include="Assets/Tools/Pixelation/Readme.txt" />
+    <None Include="Assets/Tools/Simple Toon/Shaders/STDefault.shader" />
+    <None Include="Assets/Tools/Simple Toon/Shaders/STFunctions.cginc" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -1,12 +1,8 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/OUtline.shader">
-    <Files>
-      <File FileName="Assets/UrbanNightSky/Readme.txt" Line="1" Column="1" />
-      <File FileName="Assets/Shaders/OUtline.shader" Line="197" Column="2" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{274E5F09-2BAA-F2FD-BE84-950B4CFAAEC4}|">
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4f40b052-5148-4ef0-b20a-6f69cbaca601" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

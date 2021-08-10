@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 27
-    y: 54
+    x: 72
+    y: 59
     width: 1630
     height: 934
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 1559
+  controlID: 16
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 1581
+  controlID: 17
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 1582
+  controlID: 18
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -274,7 +274,7 @@ MonoBehaviour:
   m_MinSize: {x: 276, y: 292}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 1560
+  controlID: 72
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -294,8 +294,8 @@ MonoBehaviour:
     y: 0
     width: 373
     height: 392
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -320,8 +320,8 @@ MonoBehaviour:
     y: 392
     width: 373
     height: 492
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -347,8 +347,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 652
-    y: 84
+    x: 697
+    y: 89
     width: 630
     height: 586
   m_ViewDataDictionary: {fileID: 0}
@@ -362,7 +362,7 @@ MonoBehaviour:
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
-  m_MaximizeOnPlay: 1
+  m_MaximizeOnPlay: 0
   m_UseMipMap: 0
   m_VSyncEnabled: 0
   m_Gizmos: 0
@@ -413,7 +413,7 @@ MonoBehaviour:
   m_LastWindowPixelSize: {x: 1260, y: 1172}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
-  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_LowResolutionForAspectRatios: 00000000000000000000
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
 --- !u!114 &15
@@ -436,8 +436,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 27
-    y: 84
+    x: 72
+    y: 89
     width: 624
     height: 586
   m_ViewDataDictionary: {fileID: 0}
@@ -452,9 +452,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -197.55585, y: 248.1082, z: 314.4488}
+    m_Target: {x: 40.813744, y: 297.87848, z: -250.01526}
     speed: 2
-    m_Value: {x: -197.55585, y: 248.1082, z: 314.4488}
+    m_Value: {x: 40.813744, y: 297.87848, z: -250.01526}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -501,13 +501,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.073879436, y: 0.921076, z: -0.21547897, w: 0.3158011}
+    m_Target: {x: -0.006375164, y: 0.9576328, z: -0.28713635, w: -0.021262098}
     speed: 2
-    m_Value: {x: 0.073879406, y: 0.92107564, z: -0.2154789, w: 0.315801}
+    m_Value: {x: -0.0063751624, y: 0.95763254, z: -0.2871363, w: -0.021262093}
   m_Size:
-    m_Target: 1782.5016
+    m_Target: 647.2678
     speed: 2
-    m_Value: 1782.5016
+    m_Value: 647.2678
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -647,8 +647,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 27
-    y: 691
+    x: 72
+    y: 696
     width: 1256
     height: 256
   m_ViewDataDictionary: {fileID: 0}
@@ -665,22 +665,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/samay/Documents/GitHub/Mesosphere/Mesosphere
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 62550000
-    m_LastClickedID: 21858
-    m_ExpandedIDs: 0000000062550000645500006655000000ca9a3b
+    m_SelectedIDs: 52560000
+    m_LastClickedID: 22098
+    m_ExpandedIDs: 0000000064550000665500006855000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -708,7 +708,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000062550000645500006655000000ca9a3b
+    m_ExpandedIDs: 00000000645500006655000068550000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -809,8 +809,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1284
-    y: 84
+    x: 1329
+    y: 89
     width: 372
     height: 371
   m_ViewDataDictionary: {fileID: 0}
@@ -819,7 +819,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 36e6ffff7ce6ffffd8e7ffffeae9ffff34eaffffb2ebffff54fbffff
+      m_ExpandedIDs: d0b0ffff16b1ffff72b2ffff02b4ffff48b4ffff50b4ffff8cb5ffffd2b5ffffdab5ffff20b8ffff66b8ffff6eb8ffff76b9ffffbcb9ffffc6b9ffffa4baffffeabafffff4bafffff8bbffff3ebcffff48bcffff96beffffdebeffffe8beffff74c3ffffbac3ffff16c5ffff32caffff7ccaffff84caffff82ccffffc6ccffff22ceffff5ed3ffffa2d3ffffaad3ffffead7ffff2ed8ffff36d8ffff3ae4ffff7ee4ffff86e4ffff38e6ffff7ce6ffff84e6ffff5ae8ffff9ee8ffffa6e8ffff3aecffff7eecffff86ecffff86f5ffffccf5ffff2cf7ffffcaf8ffff54fbffff0e5a0000f86700000e6c00002c700000487400004e790000ee7c0000ca8100006885000042900000e0930000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -863,8 +863,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1284
-    y: 476
+    x: 1329
+    y: 481
     width: 372
     height: 471
   m_ViewDataDictionary: {fileID: 0}
